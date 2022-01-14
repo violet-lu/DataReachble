@@ -1,0 +1,30 @@
+.Learning {
+  width: 33%;
+  float: left;
+  height: 500px;
+}
+
+.Learning__part {
+  width: 50%;
+  margin: auto;
+  height: 100%;
+}
+
+.Learning__header {
+  height: 5%;
+  width: 100%;
+  background-color: rgb(163, 208, 155);
+  text-align: center;
+  margin-top: 4px;
+  border: 1px black;
+  padding: 1px;
+  box-sizing: border-box;
+}
+
+.Learning__bottom {
+  margin-top: 10px;
+  width: 100%;
+  height: 80%;
+  background-color: rgb(163, 208, 155);
+  border: 1px black;
+}
