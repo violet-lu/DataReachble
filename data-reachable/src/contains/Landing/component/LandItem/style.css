@@ -1,0 +1,16 @@
+.landing {
+  width: auto;
+  height: 500px;
+  margin: 0;
+  box-sizing: border-box;
+  padding: 220px 0;
+}
+
+.landing__part {
+  width: 30%;
+  margin: auto;
+  font-size: 27px;
+  text-align: center;
+  padding: 15px;
+  background-color: lightpink;
+}
