@@ -1,0 +1,20 @@
+[
+  {
+    "id": "0-1",
+    "statusText": "Prepare to study",
+    "text": "javascript",
+    "type": "1"
+  },
+  {
+    "id": "0-2",
+    "statusText": "Learning...",
+    "text": "html",
+    "type": "2"
+  }, 
+  {
+    "id": "0-3",
+    "statusText": "Complete",
+    "text": "css",
+    "type": "3"
+  }
+]
