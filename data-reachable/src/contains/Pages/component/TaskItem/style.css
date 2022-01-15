@@ -1,0 +1,9 @@
+.taskitem {
+  width: 80%;
+  border: 1px solid black;
+  background-color: white;
+  margin: auto;
+  text-align: center;
+  padding: 1px;
+  
+}

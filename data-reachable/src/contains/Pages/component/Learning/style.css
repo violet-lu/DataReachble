@@ -2,6 +2,7 @@
   width: 33%;
   float: left;
   height: 500px;
+  margin-top: 50px;
 }
 
 .Learning__part {
@@ -19,10 +20,10 @@
   border: 1px black;
   padding: 1px;
   box-sizing: border-box;
+  margin-bottom: 10px;
 }
 
 .Learning__bottom {
-  margin-top: 10px;
   width: 100%;
   height: 80%;
   background-color: rgb(163, 208, 155);

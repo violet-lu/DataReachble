@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import TaskItem from '../TaskItem';
 import './style.css'
 
 class Prepare extends Component {
@@ -10,7 +11,10 @@ class Prepare extends Component {
             Prepare to study
           </div>
           <div className='prepare__bottom'>
-            <div className='prepare__add'></div>
+            <div className='prepare__content'>
+              <TaskItem />
+              <div className='prepare__add'></div>
+            </div>
           </div>
         </div>
       </div>

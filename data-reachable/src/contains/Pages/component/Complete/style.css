@@ -8,6 +8,7 @@
   width: 50%;
   margin: auto;
   height: 100%;
+  margin-top: 50px;
 }
 
 .Complete__header {
@@ -19,10 +20,10 @@
   border: 1px black;
   padding: 1px;
   box-sizing: border-box;
+  margin-bottom: 10px;
 }
 
 .Complete__bottom {
-  margin-top: 10px;
   width: 100%;
   height: 80%;
   background-color: rgb(226, 226, 226);

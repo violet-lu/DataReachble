@@ -2,6 +2,7 @@
   width: 33%;
   float: left;
   height: 500px;
+  margin-top: 50px;
 }
 
 .prepare__part {
@@ -19,13 +20,16 @@
   border: 1px black;
   padding: 1px;
   box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+.prepare__content {
+  padding-top: 20px;
 }
 
 .prepare__bottom {
-  margin-top: 10px;
   width: 100%;
   height: 80%;
   background-color: rgb(245, 224, 225);
   border: 1px black;
 }
-
